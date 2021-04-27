@@ -14,7 +14,10 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+1. Favorite Restaurants
+  - Jimmy Wan's
+  - Walnut Grille
+  - Dairy Queen
 
 <br>
 
