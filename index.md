@@ -18,6 +18,14 @@ layout: default
   - Jimmy Wan's
   - Walnut Grille
   - Dairy Queen
+2. Favorite movies
+  - Avengers Endgame
+  - Avengers Infinity War
+  - Lord of the Rings
+3. Favorite Authors
+  - HP Lovecraft
+  - Richard Matheson
+  - Stephen King 
 
 <br>
 
